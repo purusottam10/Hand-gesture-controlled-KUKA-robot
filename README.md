@@ -1,4 +1,4 @@
-<img align="right" alt="robot" width="700" src="https://github.com/purusottam10/Hand-gesture-controlled-KUKA-robot/assets/148074765/4140a914-b1ea-4bd9-a2f4-c97b75fc5791.git">
+<img align="right" alt="robot" width="500" src="https://github.com/purusottam10/Hand-gesture-controlled-KUKA-robot/assets/148074765/4140a914-b1ea-4bd9-a2f4-c97b75fc5791.git">
 
 This repository represents a comprehensive solution for hand gesture recognition and robotic control, integrating various technologies to achieve seamless interaction between humans and robots. By leveraging OpenCV and Mediapipe libraries, the system can accurately detect hand gestures in real-time, providing the input for controlling the KUKA KR 3 R 540 robot.
 
